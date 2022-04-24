@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently Mphil in UNSW
-- 🌱 I’m currently learning graph processing
+- 🌱 I’m currently working on graph analysis
 
 <!--
 **ShunyangLi/ShunyangLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
