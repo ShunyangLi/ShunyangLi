@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently Mphil in UNSW
+- 🔭 I’m currently PhD Candidate in UNSW
 - 🌱 I’m currently working on graph analysis
 
 <!--
