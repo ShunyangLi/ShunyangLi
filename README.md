@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently PhD Candidate in UNSW
-- 🌱 I’m currently working on graph analysis
+- 🔭 I’m currently a PhD Candidate at UNSW
+- 🌱 I’m currently working on cohesive subgraph analysis
 
 <!--
 **ShunyangLi/ShunyangLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
